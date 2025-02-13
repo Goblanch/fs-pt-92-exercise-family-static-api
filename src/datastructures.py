@@ -46,6 +46,6 @@ class FamilyStructure:
         
         return None
 
-    def get_all_members(self, id):
+    def get_all_members(self):
         return self._members
         
